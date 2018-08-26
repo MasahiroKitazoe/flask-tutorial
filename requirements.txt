@@ -45,7 +45,7 @@ fastcache==1.0.2
 filelock==3.0.4
 Flask==1.0.2
 Flask-Cors==3.0.2
--e git+https://github.com/MasahiroKitazoe/flask-tutorial.git@dd8bb23b2a20b007027869120d3014962bf2265c#egg=flaskr
+-e git+https://github.com/MasahiroKitazoe/flask-tutorial.git@cc2eeef22d13067b40a9cae53c1f4e55dd38e4f8#egg=flaskr
 gevent==1.2.1
 graphviz==0.8.4
 greenlet==0.4.12
@@ -86,7 +86,6 @@ nbformat==4.3.0
 networkx==1.11
 nltk==3.2.3
 nose==1.3.7
-notebook ~> 5.4.1
 numba==0.33.0
 numexpr==2.6.2
 numpy==1.12.1
