@@ -45,7 +45,7 @@ fastcache==1.0.2
 filelock==3.0.4
 Flask==1.0.2
 Flask-Cors==3.0.2
--e git+https://github.com/MasahiroKitazoe/flask-tutorial.git@a8403055005f4c6aebff041fda096a1df6e2c229#egg=flaskr
+-e git+https://github.com/MasahiroKitazoe/flask-tutorial.git@dd8bb23b2a20b007027869120d3014962bf2265c#egg=flaskr
 gevent==1.2.1
 graphviz==0.8.4
 greenlet==0.4.12
